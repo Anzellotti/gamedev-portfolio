@@ -1,3 +1,7 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: Giovanni Anzellotti
+description: gamedev porfolio
+github:
+  is_project_page: false
