@@ -4,9 +4,19 @@ title: Giovanni Anzellotti - Gamedev Portfolio
 
 # Onigiri
 
+- Developed from 2023-10 to 2024-01
+- Role: Team leader, programmer
+- Winner of the Cotoletta d'Oro (first place) at [Cotoletta 8-bit](https://www.cotoletta8bit.it/)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![OnigiriLogo](https://raw.githubusercontent.com/Anzellotti/gamedev-portfolio/main/resources/images/onigirilogo.png)
+Check it out [here](https://polimi-game-collective.itch.io/onigiri).
+
+|![OnigiriLogo](https://raw.githubusercontent.com/Anzellotti/gamedev-portfolio/main/resources/images/onigirilogo.png)|![OnigiriLogo](https://raw.githubusercontent.com/Anzellotti/gamedev-portfolio/main/resources/images/onigirilogo.png)|![OnigiriLogo](https://raw.githubusercontent.com/Anzellotti/gamedev-portfolio/main/resources/images/onigirilogo.png)|
+
+|![OnigiriLogo]({{ "/resources/images/onigirilogo.png" | relative_url }})|![OnigiriLogo]({{ "/resources/images/onigirilogo.png" | relative_url }})|![OnigiriLogo]({{ "/resources/images/onigirilogo.png" | relative_url }})|
+
+|![OnigiriLogo]({{ "/resources/images/onigirilogo.png" | relative_url }})|![OnigiriLogo](https://raw.githubusercontent.com/Anzellotti/gamedev-portfolio/main/resources/images/onigirilogo.png)|![OnigiriLogo]({{ "/resources/images/onigirilogo.png" | relative_url }})|
 
 # Untitled plane game
 
