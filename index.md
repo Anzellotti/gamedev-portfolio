@@ -33,6 +33,7 @@ Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 The development of this game started as a way to learn Unreal Engine, as well as a way to improve in some areas I felt I was lacking in, namely 3D and online. The development took about a month, between September and October 2024.\
 The game utilizes the new Networked Physics system, which allows for a seamless experience when controlling the physics-driven plane while maintaining the authority of the centralized dedicated server.
 
+|||||||![]({{ "/resources/videos/plane_shoot.gif" | relative_url }})|||||||
 
 ># Tower of Ashes
 
@@ -48,6 +49,8 @@ The game won the jury's vote, as one of the jam's two best games.
 
 Check it out **[>>here<<](https://eeveeexpo.com/threads/8368)**.
 
+|![]({{ "/resources/videos/toa_starters.png" | relative_url }})|![]({{ "/resources/videos/toa_altar.png" | relative_url }})|
+|![]({{ "/resources/videos/toa_relics.png" | relative_url }})|![]({{ "/resources/videos/toa_hooh.png" | relative_url }})|
 
 ># Build-a-Bearration
 
