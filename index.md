@@ -1,13 +1,9 @@
 ---
 title: Giovanni Anzellotti - Gamedev Portfolio
 ---
-# **/!\ CURRENTLY WORK IN PROGRESS - please check back in a bit /!\\**
+# **Finished Games**
 
----
-
-#  **Finished Games**
-
-># Onigiri
+>## **Onigiri**
 
 - Top-down physics-based action game
 - First gamedev experience
@@ -20,80 +16,93 @@ The game received the maximum grade of 30L from the course. We got a third place
 
 Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 
-|![]({{ "/resources/videos/onigiri_enemies.gif" | relative_url }})|![]({{ "/resources/videos/onigiri_boss.gif" | relative_url }})|
-|![]({{ "/resources/videos/onigiri_arcade.gif" | relative_url }})|![]({{ "/resources/videos/onigiri_cotoletta.png" | relative_url }})|
+|![]({{ "/resources/onigiri_enemies.gif" | relative_url }})|![]({{ "/resources/onigiri_boss.gif" | relative_url }})|
+|![]({{ "/resources/onigiri_arcade.gif" | relative_url }})|![]({{ "/resources/onigiri_cotoletta.png" | relative_url }})|
 
-
-># Untitled plane game
-
-- Online pvp plane combat
-- Networked Physics simulation
-- Developed on Unreal Engine 5
-
-The development of this game started as a way to learn Unreal Engine, as well as a way to improve in some areas I felt I was lacking in, namely 3D and online. The development took about a month, between September and October 2024.\
-The game utilizes the new Networked Physics system, which allows for a seamless experience when controlling the physics-driven plane while maintaining the authority of the centralized dedicated server.
-
-|||||||![]({{ "/resources/videos/plane_shoot.gif" | relative_url }})|||||||
-
-># Tower of Ashes
+>## **Tower of Ashes**
 
 - Turn-based roguelike
 - Expansive upgrade system
 - Developed on RMXP (Ruby)
 - **Winner of the jury's vote at [EE Jam 10](https://eeveeexpo.com/game-jam-10/overview/)**
 
-This game was developed for the EeveeExpo Summer Game Jam, in just over a month across July and August 2024, in a team of two people.\
+This game was developed for the EeveeExpo Summer Game Jam, in about a month across July and August 2024, in a team of two people.\
 I personally implemented the various complex systems needed to provide a roguelike experience, such as the procedural generation of the levels and the in-battle upgrades system.\
 This development experience was particularly interesting as I was not familiar with Ruby before the jam, so it proved a nice challenge.\
 The game won the jury's vote, as one of the jam's two best games.
 
 Check it out **[>>here<<](https://eeveeexpo.com/threads/8368)**.
 
-|![]({{ "/resources/videos/toa_starters.png" | relative_url }})|![]({{ "/resources/videos/toa_altar.png" | relative_url }})|
-|![]({{ "/resources/videos/toa_relics.png" | relative_url }})|![]({{ "/resources/videos/toa_hooh.png" | relative_url }})|
+||![]({{ "/resources/toa_starters.png" | relative_url }})|![]({{ "/resources/toa_altar.png" | relative_url }})|
+||![]({{ "/resources/toa_relics.png" | relative_url }})|![]({{ "/resources/toa_hooh.png" | relative_url }})|
 
-># Build-a-Bearration
+>## **Build-a-Bearration**
 
 - Top-down bullet heaven
 - Customizable player character
 - Developed on Unity
 
-I developed this game for the Acerola Game Jam 0, a two-week game jam with a maximum team size of 1.\
+I developed this game for the Acerola Game Jam 0, a two-week game jam with a maximum team size of 1, in March 2024.\
 It features a flexible character builder that allows for a lot of wonky combinations, and an upgrade system to power up as the game goes on.
 
-|![]({{ "/resources/videos/aberration_assembly.gif" | relative_url }})|![]({{ "/resources/videos/aberration_builds.gif" | relative_url }})|
+Check it out **[>>here<<](https://joevanni.itch.io/aberration)**.
+
+|![]({{ "/resources/aberration_assembly.gif" | relative_url }})|![]({{ "/resources/aberration_builds.gif" | relative_url }})|
+
+---
+# **In development**
+
+>## **PVP (Plane VS Plane)**
+
+- Online pvp plane combat
+- Networked Physics simulation
+- Developed on Unreal Engine 5
+
+The development of this game started as a way to learn Unreal Engine, as well as a way to improve in some areas I felt I was lacking in, namely 3D and online. The development started in September 2024, but is currently on hiatus as I focus on my master thesis.\
+The game utilizes the new Networked Physics system, which allows for a seamless experience when controlling the physics-driven plane while maintaining the authority of the centralized dedicated server.
+
+|||||||![]({{ "/resources/plane_shoot.gif" | relative_url }})|||||||
+
+<!-- hey, as long as it works -->
+
+>## **Turn-Based Prototype**
+
+- Turn-based combat
+- Flexible buff/debuff system
+- Minimax enemy AI
+- Entire battle logic written in C#
+
+A prototype for a turn-based battle system I'd like to expand on in the future. It was written in a couple of weeks in June 2024.\
+The most interesting aspect of this project is the fact that all of the battle logic is written in pure C#, with all Unity-specific logic such as monobehaviours decoupled by using observers and callbacks. This allowed me to easily implement a very flexible enemy AI that utilizes minimax tree search to select optimal moves.
+
+|||||||![]({{ "/resources/turnbased_block.gif" | relative_url }})|||||||
 
 ---
 
-#  **Gamedev-adjacent projects**
+# **Gamedev-adjacent projects**
 
-># AR application for medical training
+>## **AR application for medical training**
 
 - Master thesis project at Polimi
 - Positive feedback by a group of thoracoscopy surgeons
-- Developed on Unity 6
+- Developed on Unity 6, for the Meta Quest 3S headset
 
-Currently still in development, this project is my master thesis project, developed under Professor Marco Gribaudo, with the assistance of PhD student Marco Domenico Buttiglione.
-The application uses the XR Interaction Toolkit to provide a physics-based simulation of two surgical operations (thoracoscopy and laparoscopy) in an AR environment. In particular, a large focus of the development is to offer a platform-agnostic set of tools to be used in further development by future theses.
+Currently still in development, this project is my master thesis project, developed under Professor Marco Gribaudo, with the assistance of PhD student Marco Domenico Buttiglione.\
+The application uses the XR Interaction Toolkit package to provide a physics-based simulation of two surgical operations (thoracoscopy and laparoscopy) in an AR environment, in order to aid the training of future surgeons.\
+A large focus of the development is to offer a platform-agnostic set of tools to be used in further development by future theses.
 
 [This section will be updated in the future with some footage and the final evaluation.]
-># Dungeon Mesh
+
+>## **Dungeon Mesh**
 
 - Very basic game engine
 - Entity-component-system architecture
 - Built-in scene editor
 - Written in C++, using Vulkan for rendering and GLFW to handle window and input
 
-This project was developed over a couple of weeks for the Computer Graphics course at Politecnico di Milano, in a group with two other students. We received the maximum grade of 30L.\
-I personally handled the engine side of the project, from the loading of the scene from disk to the entity-component-system architecture, as well as some lower-level aspects with some Vulkan calls to correctly render the billboards, and some shader logic.
+This project was developed over a couple of weeks for the Computer Graphics course at Politecnico di Milano, in a group with two other students.\
+I personally handled the engine side of the project, from the loading of the scene from disk to the entity-component-system architecture, as well as some lower-level aspects with some Vulkan calls to correctly render the billboards, and some shader logic.\
+We received the maximum grade of 30L.
 
 
-|![]({{ "/resources/videos/dungeonmesh_environment.gif" | relative_url }})|![]({{ "/resources/videos/dungeonmesh_editor.gif" | relative_url }})|
-
----
-
-#  **Prototypes**
-
-># Prototype
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+|![]({{ "/resources/dungeonmesh_environment.gif" | relative_url }})|![]({{ "/resources/dungeonmesh_editor.gif" | relative_url }})|
