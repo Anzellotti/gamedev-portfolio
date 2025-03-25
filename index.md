@@ -19,9 +19,6 @@ Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 |![]({{ "/resources/onigiri_enemies.gif" | relative_url }})|![]({{ "/resources/onigiri_boss.gif" | relative_url }})|
 |![]({{ "/resources/onigiri_arcade.gif" | relative_url }})|![]({{ "/resources/onigiri_cotoletta.png" | relative_url }})|
 
-|![]({{ "/resources/toa_starters.png" | relative_url }})|![]({{ "/resources/toa_altar.png" | relative_url }})|
-|![]({{ "/resources/toa_relics.png" | relative_url }})|![]({{ "/resources/toa_hooh.png" | relative_url }})|
-
 >## **Build-a-Bearration**
 
 - Top-down bullet heaven
