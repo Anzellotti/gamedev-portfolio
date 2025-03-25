@@ -19,20 +19,6 @@ Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 |![]({{ "/resources/onigiri_enemies.gif" | relative_url }})|![]({{ "/resources/onigiri_boss.gif" | relative_url }})|
 |![]({{ "/resources/onigiri_arcade.gif" | relative_url }})|![]({{ "/resources/onigiri_cotoletta.png" | relative_url }})|
 
->## **Tower of Ashes**
-
-- Turn-based roguelike
-- Expansive upgrade system
-- Developed on RMXP (Ruby)
-- **Winner of the jury's vote at [EE Jam 10](https://eeveeexpo.com/game-jam-10/overview/)**
-
-This game was developed for the EeveeExpo Summer Game Jam, in about a month across July and August 2024, in a team of two people.\
-I personally implemented the various complex systems needed to provide a roguelike experience, such as the procedural generation of the levels and the in-battle upgrades system.\
-This development experience was particularly interesting as I was not familiar with Ruby before the jam, so it proved to be a nice learning opportunity.\
-The game won the jury's vote, as one of the jam's two best games.
-
-Check it out **[>>here<<](https://eeveeexpo.com/threads/8368)**.
-
 |![]({{ "/resources/toa_starters.png" | relative_url }})|![]({{ "/resources/toa_altar.png" | relative_url }})|
 |![]({{ "/resources/toa_relics.png" | relative_url }})|![]({{ "/resources/toa_hooh.png" | relative_url }})|
 
