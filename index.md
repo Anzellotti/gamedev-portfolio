@@ -19,6 +19,23 @@ Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 |![]({{ "/resources/onigiri_enemies.gif" | relative_url }})|![]({{ "/resources/onigiri_boss.gif" | relative_url }})|
 |![]({{ "/resources/onigiri_arcade.gif" | relative_url }})|![]({{ "/resources/onigiri_cotoletta.png" | relative_url }})|
 
+>## **Tower of Ashes**
+
+- Turn-based roguelike
+- Expansive upgrade system
+- Developed on RMXP (Ruby)
+- **Winner of the jury's vote at [EE Jam 10](https://eeveeexpo.com/game-jam-10/overview/)**
+
+This game was developed for the EeveeExpo Summer Game Jam, in about a month across July and August 2024, in a team of two people.\
+I personally implemented the various complex systems needed to provide a roguelike experience, such as the procedural generation of the levels and the in-battle upgrades system.\
+This development experience was particularly interesting as I was not familiar with Ruby before the jam, so it proved to be a nice learning challenge.\
+The game won the jury's vote, as one of the jam's two best games.
+
+Check it out **[>>here<<](https://eeveeexpo.com/threads/8368)**.
+
+|![]({{ "/resources/toa_starters.png" | relative_url }})|![]({{ "/resources/toa_altar.png" | relative_url }})|
+|![]({{ "/resources/toa_relics.png" | relative_url }})|![]({{ "/resources/toa_hooh.png" | relative_url }})|
+
 >## **Build-a-Bearration**
 
 - Top-down bullet heaven
@@ -26,7 +43,7 @@ Check it out **[>>here<<](https://polimi-game-collective.itch.io/onigiri)**.
 - Developed on Unity
 
 I developed this game for the Acerola Game Jam 0, a two-week game jam with a maximum team size of 1, in March 2024.\
-The game features a flexible character builder that allows for a lot of wonky combinations.
+The game features a flexible character builder that allows for a lot of unique combinations.
 
 Check it out **[>>here<<](https://joevanni.itch.io/aberration)**.
 
@@ -41,7 +58,7 @@ Check it out **[>>here<<](https://joevanni.itch.io/aberration)**.
 - Networked Physics simulation
 - Developed on Unreal Engine 5
 
-The development of this game started as a way to learn Unreal Engine, as well as a way to improve in some areas I felt I was lacking in, namely 3D and online. The development started in September 2024, but is currently on hiatus as I focus on my master thesis.\
+The development of this game started as a way to learn Unreal Engine, as well as a way to improve in some areas I felt I was lacking experience in, namely 3D and online. The development started in September 2024, but is currently on hiatus as I focus on my master thesis.\
 The game utilizes the new Networked Physics system, which allows for a seamless experience when controlling the physics-driven plane while maintaining the authority of the centralized dedicated server.
 
 |![]({{ "/resources/plane_shoot.gif" | relative_url }})|
